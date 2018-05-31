@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/05/31/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</loc>
+    <lastmod>2018-05-31T07:38:36.497Z</lastmod>
+    <data>
+        <display>
+        <title>这是第一步</title>
+        <pubTime>2018-05-31T07:33:33.386Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+  <url>
+    <loc>http://yoursite.com/2017/07/31/hello-world/</loc>
+    <lastmod>2017-07-31T02:11:29.532Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-07-31T02:11:29.532Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
