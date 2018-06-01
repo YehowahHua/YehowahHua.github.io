@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-01T05:45:35.983Z</updated>
+  <updated>2018-06-01T05:57:13.589Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,16 @@
     <link href="http://yoursite.com/2018/06/01/SVN%E6%8B%89%E5%8F%96%E6%96%87%E4%BB%B6/"/>
     <id>http://yoursite.com/2018/06/01/SVN拉取文件/</id>
     <published>2018-06-01T03:09:46.399Z</published>
-    <updated>2018-06-01T05:45:35.983Z</updated>
+    <updated>2018-06-01T05:57:13.589Z</updated>
     
-    <content type="html"><![CDATA[<p>###　　1.新建文件夹</p><div aligh="center" style="margin-left:100px"><br><img src="https://raw.githubusercontent.com/YehowahHua/markdown_picture/master/svn_download/snipaste_20180601_101559.png" height="30" width="500"><br></div><p>###　　2.鼠标右键</p><div aligh="center" style="margin-left:100px"><br><img src="https://raw.githubusercontent.com/YehowahHua/markdown_picture/master/svn_download/snipaste_20180601_101629.png"><br></div><p>###　　3.选择文件</p><div aligh="center" style="margin-left:100px"><br><img src="https://raw.githubusercontent.com/YehowahHua/markdown_picture/master/svn_download/snipaste_20180601_101649.png"><br><br>选择文件，前提要登录下，<br><br><div aligh="center"><br><img src="https://raw.githubusercontent.com/YehowahHua/markdown_picture/master/svn_download/snipaste_20180601_101720.png"><br><p><br><br>然后就可以下载了<br></p></div></div>]]></content>
+    <content type="html"><![CDATA[<p></p><h3>　　1.新建文件夹 </h3><p></p><div style="margin-left:100px"><br><img src="https://raw.githubusercontent.com/YehowahHua/markdown_picture/master/svn_download/snipaste_20180601_101559.png" height="30" width="500"><br></div><p></p><h3>　　2.鼠标右键 </h3><p></p><div style="margin-left:100px"><br><img src="https://raw.githubusercontent.com/YehowahHua/markdown_picture/master/svn_download/snipaste_20180601_101629.png"><br></div><p></p><h3>　　3.选择文件 </h3><p></p><div style="margin-left:100px"><br><img src="https://raw.githubusercontent.com/YehowahHua/markdown_picture/master/svn_download/snipaste_20180601_101649.png"><br><br>选择文件，前提要登录下，<br><br><div><br><img src="https://raw.githubusercontent.com/YehowahHua/markdown_picture/master/svn_download/snipaste_20180601_101720.png"><br><p><br><br>然后就可以下载了<br></p></div></div>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;###　　1.新建文件夹&lt;/p&gt;
-&lt;div aligh=&quot;center&quot; style=&quot;margin-left:100px&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/YehowahHua/markdown_pictur
+        &lt;p&gt;&lt;/p&gt;&lt;h3&gt;　　1.新建文件夹 &lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;div style=&quot;margin-left:100px&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://raw.githubusercontent.com/YehowahHua/markdown_picture
       
     
     </summary>
