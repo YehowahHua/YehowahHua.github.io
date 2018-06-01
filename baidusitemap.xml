@@ -5,19 +5,32 @@
     
   <url>
     <loc>http://yoursite.com/2018/06/01/SVN%E6%8B%89%E5%8F%96%E6%96%87%E4%BB%B6/</loc>
-    <lastmod>2018-06-01T06:16:52.471Z</lastmod>
+    <lastmod>2018-06-01T06:22:53.457Z</lastmod>
     <data>
         <display>
         <title>SVN拉取文件</title>
         <pubTime>2018-05-31T16:00:00.000Z</pubTime>
         
-        <tag>svn</tag>
-         
          
            
              
               <breadCrumb title="workspace" url="http://yoursite.com/categories/workspace/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/07/31/hello-world/</loc>
+    <lastmod>2018-06-01T06:22:44.878Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-07-31T02:11:29.532Z</pubTime>
+        
+         
+           
         </display>
     </data>
     </url>
@@ -40,19 +53,4 @@
     
     
     
-    
-  <url>
-    <loc>http://yoursite.com/2017/07/31/hello-world/</loc>
-    <lastmod>2017-07-31T02:11:29.532Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-07-31T02:11:29.532Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>
